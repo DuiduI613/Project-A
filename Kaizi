@@ -17,4 +17,8 @@ class laopo {
 	public addOne() {
 		number ++;
 	}
+
+	public NiDaye(){
+		SB;	
+	}
 }
