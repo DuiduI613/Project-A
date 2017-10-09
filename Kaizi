@@ -1,0 +1,10 @@
+class laopo {
+	private String k;
+	laopo(String a) {
+		k = a;
+	}
+
+	public printsomething() {
+		System.out.println(k);
+	}
+}
