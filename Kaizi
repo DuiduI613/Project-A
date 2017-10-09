@@ -21,4 +21,8 @@ class laopo {
 	public NiDaye(){
 		SB;	
 	}
+
+	public print1 () {
+		System.out.println ("Kaizi shi nv sheng");
+	}
 }
