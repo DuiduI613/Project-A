@@ -1,10 +1,16 @@
 class laopo {
 	private String k;
+	private int number;
+
 	laopo(String a) {
 		k = a;
 	}
 
 	public printsomething() {
 		System.out.println(k);
+	}
+
+	public printsomethingelse() {
+		System.out.println(number);
 	}
 }
