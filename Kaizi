@@ -13,4 +13,8 @@ class laopo {
 	public printsomethingelse() {
 		System.out.println(number);
 	}
+
+	public addOne() {
+		number ++;
+	}
 }
