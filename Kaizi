@@ -1,6 +1,6 @@
 class laopo {
 	private String k;
-	private int number;
+	private double number;
 
 	laopo(String a) {
 		k = a;
